@@ -332,6 +332,8 @@ a {
 
 .home-bg-overlay {
     background: url("../images/02.png");
+    background-size: cover;
+    background-position: top;
     position: absolute;
     top: 0;
     right: 0;
@@ -1238,6 +1240,7 @@ a {
     transition: all 0.1s;
     z-index: 2;
     padding: 10px 4px;
+    border-radius: 3px;
 }
 
 
