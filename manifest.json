@@ -44,7 +44,7 @@
         }
     ],
     "lang": "en-US",
-    "start_url": "/TestPWA/",
+    "start_url": "/etc_new_layout/",
     "display": "standalone",
     "background_color": "white",
     "theme_color": "white"
