@@ -720,18 +720,18 @@ a {
 }
 
 .footer-link a {
-    color: #acacac;
+    color: #d4cdc4;
     line-height: 40px;
     font-size: 14px;
     transition: all 0.5s;
 }
 
 .footer-link a:hover {
-    color: #1bbc9b;
+    color: #9b4e23;
 }
 
 .contact-info {
-    color: #acacac;
+    color: #d4cdc4;
     font-size: 14px;
 }
 
@@ -766,7 +766,7 @@ a {
 }
 
 .footer-alt {
-    color: #acacac;
+    color: #d4cdc4;
 }
 
 .footer-heading {
@@ -779,10 +779,10 @@ a {
     width: 25px;
     border-bottom: 1px solid #FFF;
     position: absolute;
-    left: 0;
+    right: 0;
     bottom: 0;
     display: block;
-    border-bottom: 1px solid #1bbc9b;
+    border-bottom: 1px solid #9b4e23;
 }
 
 
